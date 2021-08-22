@@ -1,0 +1,2 @@
+# Landslide-Inventory
+This repo contains all the scraped landslide related descriptions, fact extraction for those descriptions using NLP techniques, connection of GIS database to pymongo, conversion of all the available csv data to geojson for maintaing GIS database, querying landslides in specific region then converting it to shapefiles. This was some of my contribution to the project named "Crowd sourcing for landslide inventory" that was done during my summer internship under Visiting Research Prof. Gagan Raj Gupta at IIT - Bhilai.
